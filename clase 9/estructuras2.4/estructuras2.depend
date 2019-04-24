@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1555109631 source:c:\users\alumno\desktop\estructuras2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1555358853 source:c:\users\delta\desktop\programacion-1-master\estructuras2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1555469196 source:c:\users\delta\desktop\estructuras2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funcionesEstructura.h"
+
+1555469186 source:c:\users\delta\desktop\estructuras2\funcionesestructura.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1555373670 c:\users\delta\desktop\estructuras2\funcionesestructura.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1555469572 source:c:\users\delta\desktop\estructuras2.1\funcionesestructura.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1555469196 source:c:\users\delta\desktop\estructuras2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funcionesEstructura.h"
+
+1555469582 c:\users\delta\desktop\estructuras2.1\funcionesestructura.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1555469572 c:\users\delta\desktop\estructuras2.1\funcionesestructura.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1555507567 source:c:\users\alumno\desktop\estructuras2.1\funcionesestructura.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1555507094 source:c:\users\alumno\desktop\estructuras2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funcionesEstructura.h"
+
+1555503223 c:\users\alumno\desktop\estructuras2.1\funcionesestructura.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1555979795 source:c:\users\delta\desktop\clase 9\estructuras2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funcionesEstructura.h"
+
+1555979006 c:\users\delta\desktop\clase 9\estructuras2.2\funcionesestructura.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1555982770 source:c:\users\delta\desktop\clase 9\estructuras2.2\funcionesestructura.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1555983334 source:c:\users\delta\desktop\clase 9\estructuras2.4\funcionesestructura.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1555979795 source:c:\users\delta\desktop\clase 9\estructuras2.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funcionesEstructura.h"
+
+1555979006 c:\users\delta\desktop\clase 9\estructuras2.4\funcionesestructura.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
