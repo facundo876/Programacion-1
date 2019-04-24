@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1555464240 source:c:\users\delta\desktop\funcionesutn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesUTN.h"
+
+1555464305 c:\users\delta\desktop\funcionesutn\funcionesutn.h
+
+1555285403 source:c:\users\delta\desktop\funcionesutn\funcionesutn.c
+	<stdio.h>
+	<string.h>
+
